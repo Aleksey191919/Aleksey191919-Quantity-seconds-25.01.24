@@ -8,5 +8,4 @@ function quantitySeconds () {
         alert ("Ви ввели не коректні дані");
     }
 }
-
 quantitySeconds();
